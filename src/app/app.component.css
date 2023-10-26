@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://i.pinimg.com/736x/53/1f/1a/531f1adb0a03bfa0c62e5544512da105.jpg'); /* Ruta a tu imagen de fondo */
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    color: white; 
+  }
